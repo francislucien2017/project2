@@ -1,7 +1,5 @@
 # Project 2: greedy versus exhaustive
 
-Group members:
+Group members: Xu Liu
 
-Ada Lovelace adalovelace@csu.fullerton.edu
-
-Charles Babbage charlesbab@csu.fullerton.edu
+francislucien2017@csu.fullerton.edu
